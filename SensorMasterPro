@@ -138,3 +138,28 @@ git commit -m "Initial commit: Sensor Master Pro v1.0.0"
 git branch -M main
 git remote add origin https://github.com/tu-usuario/SensorMasterPro.git
 git push -u origin main
+
+### **2. topics.json** (Temas para GitHub)
+```json
+[
+  "android",
+  "kotlin",
+  "jetpack-compose",
+  "sensor-fusion",
+  "signal-processing",
+  "machine-learning",
+  "tensorflow-lite",
+  "embedded-systems",
+  "clean-architecture",
+  "mvvm",
+  "kalman-filter",
+  "fft-analysis",
+  "circular-buffer",
+  "magnetometer",
+  "electromagnetic-patterns",
+  "real-time-processing",
+  "android-sensors",
+  "data-visualization",
+  "kotlin-native",
+  "room-database"
+]
